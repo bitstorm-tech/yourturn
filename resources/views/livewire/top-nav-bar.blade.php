@@ -1,8 +1,8 @@
 <div class="bg-base-300 sticky top-4 left-10 z-50 mx-32 flex items-center justify-between rounded-4xl p-4 shadow-md">
     <a class="btn btn-ghost text-xl">
         <!-- prettier-ignore -->
-        <p class="font-mono text-2xl">
-            Your<span class="text-orange-400"><i><b>Turn</b></i></span>
+        <p class="text-2xl">
+            Your<span class="text-orange-400 italic font-extrabold">Turn</span>
         </p>
     </a>
     <ul class="flex gap-4">

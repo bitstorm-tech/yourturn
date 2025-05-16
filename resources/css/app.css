@@ -3,3 +3,14 @@
 @plugin "daisyui" {
     themes: "dim";
 }
+
+@layer base {
+    h1 {
+        font-size: var(--text-3xl);
+        font-weight: 700;
+    }
+}
+
+.brand-color {
+    color: var(--color-orange-400);
+}

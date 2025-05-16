@@ -9,7 +9,7 @@
         @vite(["resources/css/app.css", "resources/js/app.js"])
     </head>
 
-    <body class="bg-base-content">
+    <body class="bg-base-content antialiased">
         <livewire:top-nav-bar />
         {{ $slot }}
     </body>
